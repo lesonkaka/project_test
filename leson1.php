@@ -1,7 +1,7 @@
 <?php
 echo 11111;
 echo __FILE__;
-
+echo "toitoi";
 
 echo 2222222;
 echo 3333;
