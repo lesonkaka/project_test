@@ -7,8 +7,8 @@ echo 11111;
 echo "kakaka";
 
 
-echo 555555;
-echo 666666;
+echo 555888555;
+echo 666999666;
 
 
 echo 123;
