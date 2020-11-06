@@ -13,3 +13,4 @@ echo 111111;
 
 echo "leson3";
 echo 333333333;
+echo __FILE__;
