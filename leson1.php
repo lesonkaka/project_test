@@ -15,3 +15,5 @@ echo "leson3";
 echo 333333333;
 echo __FILE__;
 echo 88888888888;
+
+echo 9999;
